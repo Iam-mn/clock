@@ -2,7 +2,7 @@
   "short_name": "clock",
   "name": "CLOCK",
   "display": "standalone",
-  "start_url": "./clock/",
+  "start_url": "https://iam-mn.github.io/clock/",
   "theme_color": "red",
   "background_color": "blue",
   "icons": [{
